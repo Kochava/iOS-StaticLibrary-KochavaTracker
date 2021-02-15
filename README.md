@@ -12,12 +12,7 @@ The Kochava SDK is a lightweight and easy to integrate SDK written in Objective-
 
 ## Platforms
 
-* iOS 10.3
-
-## Dependencies
-
-* [KochavaCore](https://github.com/Kochava/iOS-StaticLibrary-KochavaCore) 
-![GitHub release (latest by date including pre-releases)](https://img.shields.io/github/v/release/kochava/iOS-StaticLibrary-KochavaCore?include_prereleases)
+* iOS 6.0
 
 ## Installation
 
