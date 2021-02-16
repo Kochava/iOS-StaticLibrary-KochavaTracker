@@ -10,9 +10,13 @@ The KochavaTracker module is an optional module within the Kochava SDK providing
 
 The Kochava SDK is a lightweight and easy to integrate SDK written in Objective-C and Swift, providing first-class integration with Kochava’s industry leading mobile attribution and analytics platform.
 
+## Built on
+
+* Xcode 8.x
+
 ## Platforms
 
-* iOS 6.0
+* iOS 8.x
 
 ## Installation
 
