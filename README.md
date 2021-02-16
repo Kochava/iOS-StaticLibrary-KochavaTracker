@@ -12,11 +12,11 @@ The Kochava SDK is a lightweight and easy to integrate SDK written in Objective-
 
 ## Built on
 
-* Xcode 8.x
+* Xcode 8.3.0
 
 ## Platforms
 
-* iOS 8.x
+* iOS 8.0
 
 ## Installation
 
